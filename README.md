@@ -93,3 +93,12 @@ Top-3 probabilities:
   <li>Deploy the model as an API or web application for real-time resume classification.</li>
   <li>Enhance dataset diversity to cover more job roles.</li>
 </ul>
+
+<h2>Conclusion</h2>
+<p>
+This project successfully demonstrates how NLP techniques and machine learning can be combined to classify resumes into relevant job categories. 
+Through thorough text preprocessing, TF-IDF vectorization, and the use of a Logistic Regression model, we achieved an impressive 99% accuracy on test data. 
+The model performs well even on unseen resumes and provides top-3 probable categories for better interpretability. 
+Future improvements such as deep learning models and deployment as a web service can make this solution production-ready and highly useful for automated recruitment systems.
+</p>
+
